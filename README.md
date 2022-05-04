@@ -10,6 +10,10 @@ tensorflow 目前已经迭代到2.9版本， 不知道几年是不是要迭代�
 
 [origin README](README_origin.md)
 
+# 论文汇总
+- [TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems](https://arxiv.org/abs/1603.04467)
+
+
 # 源码分析
 
 * [源码目录](docs/directory.md)
